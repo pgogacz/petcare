@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.petcare-gdynia.pl/</loc>
@@ -9,7 +10,7 @@
         <loc>https://www.petcare-gdynia.pl/chirurgia</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/czipowanie</loc>
@@ -39,19 +40,19 @@
         <loc>https://www.petcare-gdynia.pl/kontakt</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/leki-recepty</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/o-nas</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/okulistyka</loc>
@@ -63,7 +64,7 @@
         <loc>https://www.petcare-gdynia.pl/pacjenci</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/polityka-cookies</loc>
@@ -81,7 +82,7 @@
         <loc>https://www.petcare-gdynia.pl/przychodnia-przyjazna-kotom</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/stomatologia</loc>
@@ -105,12 +106,12 @@
         <loc>https://www.petcare-gdynia.pl/wydawanie-paszportow</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.petcare-gdynia.pl/zespol</loc>
         <lastmod>2024-06-18</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.8</priority>
     </url>
 </urlset>
