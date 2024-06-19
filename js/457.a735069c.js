@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkprzychodnia_weterynaryjna"]=self["webpackChunkprzychodnia_weterynaryjna"]||[]).push([[457],{457:function(n,e,a){a.r(e)}}]);
