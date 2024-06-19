@@ -1,8 +1,87 @@
 {
   "rewrites": [
+    {
+      "source": "https://www.petcare-gdynia.pl/uslugi",
+      "destination": "/index.html"
+    },
 
     {
-      "source": "^\/[^.]*$",
+      "source": "https://www.petcare-gdynia.pl/chirurgia",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/czipowanie",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/dermatologia",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/diagnostyka",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/kardiologia",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/kontakt",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/leki-recepty",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/o-nas",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/okulistyka",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/pacjenci",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/polityka-cookies",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/profilaktyka-leczenie-ogolne",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/stomatologia",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/usg",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/wydawanie-paszportow",
+      "destination": "/index.html"
+    },
+
+    {
+      "source": "https://www.petcare-gdynia.pl/zespol",
       "destination": "/index.html"
     }
   ]
