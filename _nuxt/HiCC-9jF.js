@@ -1,1 +1,0 @@
-import{_ as t}from"./BwQUnBpP.js";import{_ as e}from"./CQVTnFGe.js";import{_,v as s,z as o,x as c,t as r}from"./YuUiO5vL.js";const m={name:"Home",components:{Header:t,Kontakt:e}},p={class:"home"};function d(i,f,l,u,x,k){const n=t,a=e;return r(),s("div",p,[o(n),c("main",null,[o(a)])])}const H=_(m,[["render",d]]);export{H as default};
