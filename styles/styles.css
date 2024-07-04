@@ -1,0 +1,218 @@
+:root {
+  --main-bg-color: #418776;
+  --accent-color: #5FC6AC;
+  --text-color: #fff;
+  --header-color: #49c1a4;
+  --subheader-color: #418776;
+  --link-color: #bd38a4;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+  --main-header-1600-font-size: 1.5vw;
+  --main-header-1600-line-height: 2.5vw;
+
+  --main-header-1200-font-size: 1.8em;
+  --main-header-1200-line-height: 2.4em;
+
+  --main-header-900-font-size: 1.5em;
+  --main-header-900-line-height: 2em;
+
+}*
+
+::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Globalne style */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6;
+  color: #333; /* Przykładowy kolor tekstu */
+}
+
+    .router-link {
+      color: #fff; 
+  }
+  
+  a.router-link-active {
+      color: #bd38a4 !important; 
+  }
+  
+  a {
+    color: #3a7a9a;
+  }
+  
+  .back-to-top-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #bd38a4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 24px; /* Zwiększ rozmiar ikony */
+  }
+  
+  .back-to-top-button:hover {
+    background-color: #37a38a;
+  }
+  
+  .uslugi {
+    color: #333;
+  }
+  
+  .uslugi h1 {
+    font-size: 1.8rem;
+    padding-bottom: 1.5rem;
+  }
+  
+  .uslugi h2 {
+    font-size: 1.6rem;
+    padding-bottom: 1.4rem;
+  }
+  
+  .uslugi h3 {
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    padding-bottom: 1.3rem;
+  }
+  
+  .uslugi h4 {
+    font-size: 1.25rem;
+    line-height: 1.4rem;
+    padding-bottom: 1rem;
+  }
+  
+  .uslugi h5 {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    padding-bottom: 1rem;
+  }
+  
+  .uslugi p {
+    font-size: 1.1rem;
+    line-height: 1.3rem;
+    padding-bottom: 1rem;
+  }
+  
+  .uslugi .container  ul {
+    padding-left: 1.5em; /* Małe wcięcie dla całej listy */
+  }
+  
+  .uslugi .container  ul li::before {
+    content: " \2013 "; /* Spacja przed i po długim myślniku */
+    margin-left: -1.5em; /* Negatywne wcięcie, aby wyrównać myślnik */
+    padding-right: 0.5em; /* Opcjonalna spacja po myślniku */
+    color: #bd38a4;
+    font-weight: bold;
+  }
+  
+  
+  @media (max-width: 900px) {
+    .uslugi h1 {
+    font-size: 1.6rem;
+  }
+  
+  .uslugi h2 {
+    font-size: 1.5rem;
+  }
+  
+  .uslugi h3 {
+    font-size: 1.4rem;
+  }
+  
+  .uslugi h4 {
+    font-size: 1.2rem;
+  }
+  
+  .uslugi h5 {
+    font-size: 1.1rem;
+  }
+  
+  .uslugi p {
+    font-size: 1.1rem;
+  }
+  }
+  
+  @media (min-width: 901px) and (max-width: 1200px) {
+    .uslugi h1 {
+    font-size: 1.7rem;
+  }
+  
+  .uslugi h2 {
+    font-size: 1.6rem;
+  }
+  
+  .uslugi h3 {
+    font-size: 1.3rem;
+  }
+  
+  .uslugi h4 {
+    font-size: 1.2rem;
+  }
+  
+  .uslugi h5 {
+    font-size: 1.1rem;
+  }
+  
+  .uslugi p {
+    font-size: 1.1rem;
+  }
+  }
+  
+  .uslugi .img-fluid {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    /* Styl dla listy */
+    .uslugi .list-group {
+      border: none;
+    }
+    
+    .uslugi .list-group-item {
+      background-color: transparent;
+      border: none;
+      border-bottom: 1px solid #dee2e6;
+    }
+    
+    .uslugi .list-group-item:last-child {
+      border-bottom: none;
+    }
+
+  .uslugi .quote {
+      padding: 5vh 5vw;
+      font-family: 'Poppins', sans-serif;
+      box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+      font-size: 1.1rem;
+      border-radius: 5px;
+      background-image: url('/icons/lapka_psa_100x100.png'), url('/icons/usmiech_kotka.png'); /* Dodaj ścieżki do obu obrazków tła */
+      background-repeat: no-repeat, no-repeat; /* Wyłącz powtarzanie tła dla obu obrazków */
+      background-position: left 5px top 5px, right 5px bottom 5px; 
+      background-size: 40px, 40px; /* Ustawienie wielkości obu obrazków */
+      color: #333;
+  }
+
+  .uslugi .quote h4 {
+   
+}
+
+  .uslugi .quote p {
+    line-height: 1.6rem;
+}
+
+  .uslugi .quote1 {
+    background-color: #C1E1D5;
+  }
+  
+  .uslugi .quote2 {
+    background-color: #C1E1D5;
+  }
+  
