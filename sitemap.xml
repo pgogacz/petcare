@@ -5,19 +5,11 @@
 	</url>
 	<url>
 		<loc>https://www.petcare-gdynia.pl/pacjenci</loc>
-	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/uslugi</loc>
-	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/okulistyka</loc>
-	</url>
+	</url>	
 	<url>
 		<loc>https://www.petcare-gdynia.pl/zespol</loc>
 	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/kardiologia</loc>
-	</url>
+
 	<url>
 		<loc>https://www.petcare-gdynia.pl/o-nas</loc>
 	</url>
@@ -25,31 +17,40 @@
 		<loc>https://www.petcare-gdynia.pl/kontakt</loc>
 	</url>
 	<url>
-		<loc>https://www.petcare-gdynia.pl/usg</loc>
-	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/chirurgia</loc>
-	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/profilaktyka</loc>
-	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/stomatologia</loc>
-	</url>
-	<url>
-		<loc>https://www.petcare-gdynia.pl/dermatologia</loc>
-	</url>
-	<url>
 		<loc>https://www.petcare-gdynia.pl/cookies</loc>
 	</url>
 	<url>
-		<loc>https://www.petcare-gdynia.pl/czipowanie</loc>
+		<loc>https://www.petcare-gdynia.pl/uslugi</loc>
 	</url>
 	<url>
-		<loc>https://www.petcare-gdynia.pl/paszporty</loc>
+		<loc>https://www.petcare-gdynia.pl/uslugi/okulistyka</loc>
 	</url>
 	<url>
-		<loc>https://www.petcare-gdynia.pl/diagnostyka</loc>
+		<loc>https://www.petcare-gdynia.pl/uslugi/kardiologia</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/usg</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/chirurgia</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/profilaktyka</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/stomatologia</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/dermatologia</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/czipowanie</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/paszporty</loc>
+	</url>
+	<url>
+		<loc>https://www.petcare-gdynia.pl/uslugi/diagnostyka</loc>
 	</url>
 	
 </urlset>

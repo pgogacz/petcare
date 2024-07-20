@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { "source": "/profilaktyka", "destination": "/uslugi/profilaktyka", "permanent": true },
+    { "source": "/okulistyka", "destination": "/uslugi/okulistyka", "permanent": true },
+    { "source": "/kardiologia", "destination": "/uslugi/kardiologia", "permanent": true },
+    { "source": "/usg", "destination": "/uslugi/usg", "permanent": true },
+    { "source": "/dermatologia", "destination": "/uslugi/dermatologia", "permanent": true },
+    { "source": "/stomatologia", "destination": "/uslugi/stomatologia", "permanent": true },
+    { "source": "/chirurgia", "destination": "/uslugi/chirurgia", "permanent": true },
+    { "source": "/diagnostyka", "destination": "/uslugi/diagnostyka", "permanent": true },
+    { "source": "/czipowanie", "destination": "/uslugi/czipowanie", "permanent": true },
+    { "source": "/paszporty", "destination": "/uslugi/paszporty", "permanent": true }
+  ]
+}
