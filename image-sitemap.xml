@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/kardiologia</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/kardiologia-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/kardiologia.jpg</image:loc>
             <image:title>Kardiologia dla zwierząt w Gdyni</image:title>
@@ -10,7 +10,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/okulistyka</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/okulistyka-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/okulistyka.jpg</image:loc>
             <image:title>Okulistyka weterynaryjna Gdynia</image:title>
@@ -18,7 +18,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/dermatologia</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/dermatologia-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/dermatologia.jpg</image:loc>
             <image:title>Dermatologia weterynaryjna Gdynia</image:title>
@@ -26,7 +26,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/stomatologia</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/stomatologia-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/stomatologia.jpg</image:loc>
             <image:title>Stomatologia weterynaryjna Gdynia</image:title>
@@ -34,7 +34,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/diagnostyka</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/diagnostyka-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/diagnostyka.jpg</image:loc>
             <image:title>Diagnostyka weterynaryjna Gdynia</image:title>
@@ -50,15 +50,15 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/usg</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/usg-weterynarz</loc>
         <image:image>
-            <image:loc>https://www.petcare-gdynia.pl/img/uslugi/usg.jpg</image:loc>
+            <image:loc>https://www.petcare-gdynia.pl/img/uslugi/usg-weterynarz.jpg</image:loc>
             <image:title>USG dla zwierząt Gdynia</image:title>
             <image:caption>Badania ultrasonograficzne jamy brzusznej, serca, ciąży u zwierząt, USG psów i kotów w Gdyni</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/chirurgia</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/chirurgia-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/chirurgia.jpg</image:loc>
             <image:title>Chirurgia weterynaryjna Gdynia</image:title>
@@ -66,7 +66,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/czipowanie</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/czipowanie-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/czipowanie.jpg</image:loc>
             <image:title>Czipowanie zwierząt Gdynia</image:title>
@@ -74,7 +74,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://www.petcare-gdynia.pl/uslugi/paszporty</loc>
+        <loc>https://www.petcare-gdynia.pl/uslugi/paszporty-weterynarz</loc>
         <image:image>
             <image:loc>https://www.petcare-gdynia.pl/img/uslugi/paszporty.jpg</image:loc>
             <image:title>Paszporty dla zwierząt Gdynia</image:title>

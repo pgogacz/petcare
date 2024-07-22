@@ -1,14 +1,25 @@
 {
   "redirects": [
     { "source": "/profilaktyka", "destination": "/uslugi/profilaktyka", "permanent": true },
-    { "source": "/okulistyka", "destination": "/uslugi/okulistyka", "permanent": true },
-    { "source": "/kardiologia", "destination": "/uslugi/kardiologia", "permanent": true },
-    { "source": "/usg", "destination": "/uslugi/usg", "permanent": true },
-    { "source": "/dermatologia", "destination": "/uslugi/dermatologia", "permanent": true },
-    { "source": "/stomatologia", "destination": "/uslugi/stomatologia", "permanent": true },
-    { "source": "/chirurgia", "destination": "/uslugi/chirurgia", "permanent": true },
-    { "source": "/diagnostyka", "destination": "/uslugi/diagnostyka", "permanent": true },
-    { "source": "/czipowanie", "destination": "/uslugi/czipowanie", "permanent": true },
-    { "source": "/paszporty", "destination": "/uslugi/paszporty", "permanent": true }
+    { "source": "/okulistyka", "destination": "/uslugi/okulistyka-weterynarz", "permanent": true },
+    { "source": "/kardiologia", "destination": "/uslugi/kardiologia-weterynarz", "permanent": true },
+    { "source": "/usg", "destination": "/uslugi/usg-weterynarz", "permanent": true },
+    { "source": "/dermatologia", "destination": "/uslugi/dermatologia-weterynarz", "permanent": true },
+    { "source": "/stomatologia", "destination": "/uslugi/stomatologia-weterynarz", "permanent": true },
+    { "source": "/chirurgia", "destination": "/uslugi/chirurgia-weterynarz", "permanent": true },
+    { "source": "/diagnostyka", "destination": "/uslugi/diagnostyka-weterynarz", "permanent": true },
+    { "source": "/czipowanie", "destination": "/uslugi/czipowanie-weterynarz", "permanent": true },
+    { "source": "/paszporty", "destination": "/uslugi/paszporty-weterynarz", "permanent": true },
+
+    { "source": "/uslugi/profilaktyka", "destination": "/uslugi/profilaktyka-weterynarz", "permanent": true },
+    { "source": "/uslugi/okulistyka", "destination": "/uslugi/okulistyka-weterynarz", "permanent": true },
+    { "source": "/uslugi/kardiologia", "destination": "/uslugi/kardiologia-weterynarz", "permanent": true },
+    { "source": "/uslugi/usg", "destination": "/uslugi/usg-weterynarz", "permanent": true },
+    { "source": "/uslugi/dermatologia", "destination": "/uslugi/dermatologia-weterynarz", "permanent": true },
+    { "source": "/uslugi/stomatologia", "destination": "/uslugi/stomatologia-weterynarz", "permanent": true },
+    { "source": "/uslugi/chirurgia", "destination": "/uslugi/chirurgia-weterynarz", "permanent": true },
+    { "source": "/uslugi/diagnostyka", "destination": "/uslugi/diagnostyka-weterynarz", "permanent": true },
+    { "source": "/uslugi/czipowanie", "destination": "/uslugi/czipowanie-weterynarz", "permanent": true },
+    { "source": "/uslugi/paszporty", "destination": "/uslugi/paszporty-weterynarz", "permanent": true }
   ]
 }
